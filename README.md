@@ -1,7 +1,7 @@
 ## SMART HOME EQUIPMENT CONTROL SYSTEM WITH BEAGLEBONE BLACK AND YOCTO
 ### Flowchart
 <picture>
-  <img alt="yocto" height="70%" width="70%" src="https://i.imgur.com/i9Jna1w.jpeg">
+  <img alt="yocto" height="70%" width="70%" src="https://i.imgur.com/nTKgPon.png">
 </picture>
 
 ### Hardware requirements
